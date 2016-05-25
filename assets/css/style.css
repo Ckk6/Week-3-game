@@ -1,0 +1,49 @@
+h1 h2 {
+	font-family: "Georgia","Times",Times New Roman,serif;
+		}
+
+.wrapper
+	{ 
+		background-image: url("../images/kid_1.png");
+		background-size: 1105px 700px;
+		width: 960px;
+		height: 500px;
+		padding:135px 50px 50px 30px;
+		position: relative;
+		background-color: #a9d6c4;
+ 	}
+
+.center
+	{
+		margin: auto,0;
+	}
+.instructions
+	{
+		padding-top:150;
+		
+		
+	}
+
+ 	h1 {
+
+	font-size: 30px;
+	font-weight: bold;
+	color: #fa8b1b;
+		}
+
+.word-dash{
+	margin: auto;
+	width: 250px;
+}
+
+#d1 
+{
+font-size: 30px;
+font-weight: bold;
+}
+
+#d2
+{
+	font-size: 30px;
+	font-weight: bold;
+}
